@@ -9,7 +9,7 @@
 		"node-gcm": "^1.0.2"
 	},
 	"scripts": {
-		"start": "node server.js
+		"start": "node server.js"
 	},
 	"devDependencies": {
 		"autoprefixer": "^9.4.3",
